@@ -7,7 +7,9 @@
 
 1. Установить Docker Desktop согласно инструкции (https://www.docker.com/)
 2. Cоздать папку на локальном компьютере и клонировать репозиторий:
-### <git clone https://github.com/Jan5757/RiskVATandDocker.git >
+
+    ### git clone https://github.com/Jan5757/RiskVATandDocker.git
+    
 3. Открыть эту папку в командной строке и выполнить в ней
 ### docker-compose up
 4. Проверить в Docker Desktop, что все контейнеры запустились. Если нет - перезапустить.
